@@ -6,4 +6,8 @@ Simulation in 2D of a wave with a discretization of the wave equation. The user 
 
 ## Early Reflections
 
-2D space where the user can set up wall and see the reflections of the given geometry by moving the mouse. 
+2D space where the user can set up wall and see the reflections of the given geometry by moving the mouse.
+
+## Draw with Fourier Series
+
+Recreates the outline of a close curve with rotating epycycles. My own implementation of the animation shown in this [3Blue1Brown video](https://www.youtube.com/watch?v=r6sGWTCMz2k).
