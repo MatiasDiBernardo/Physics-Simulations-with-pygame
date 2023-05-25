@@ -6,7 +6,7 @@ Simulation in 2D of a wave with a discretization of the wave equation. The user 
 
 ## Early Reflections
 
-2D space where the user can set up wall and see the reflections of the given geometry by moving the mouse.
+2D space where the user can set up walls and see the reflections of the given geometry by moving the mouse.
 
 ## Draw with Fourier Series
 
